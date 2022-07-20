@@ -1,10 +1,7 @@
 package Controller;
 
 
-import DAO.SQLdb;
 import View.MainView;
-
-import java.awt.event.ActionEvent;
 
 public class MainController {
 
