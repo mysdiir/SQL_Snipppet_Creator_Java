@@ -17,6 +17,7 @@ public class MainController {
 
     public static void main(String[] args) {
        new MainController(new MainView());
+        System.out.println("blabla");
 
     }
 
